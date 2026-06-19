@@ -18,8 +18,8 @@ theme:
 
 nav:
   - Ana Sayfa / Home: index.md
-  - 🇹🇷 Türkçe: labeldataspecification_tr.md
-  - 🇬🇧 English: labeldataspecification_en.md
+  - 🇹🇷 Türkçe: labeldata_tr.md
+  - 🇬🇧 English: labeldata_en.md
 
 use_directory_urls: false
 

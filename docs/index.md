@@ -1,6 +1,6 @@
 # TcHmiPro_V21 Manual
 
-## [English](labeldataspecification_en.md)
+## [English](labeldataspecification_en)
 
-## [Türkçe](labeldataspecification_tr.md) 
+## [Türkçe](labeldataspecification_tr) 
 

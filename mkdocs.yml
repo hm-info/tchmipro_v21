@@ -1,0 +1,27 @@
+site_name: TcHmiPro_V21 Manual
+site_description: TcHmiPro_V21 Manual
+site_url: https://hm-info.github.io/tchmipro-v21/
+
+docs_dir: docs
+
+theme:
+  name: material
+  language: tr
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+  palette:
+    - scheme: default
+      primary: blue-grey
+      accent: blue-grey
+
+nav:
+  - Ana Sayfa / Home: index.md
+  - 🇹🇷 Türkçe: LabelDataSpecification_TR.md
+  - 🇬🇧 English: LabelDataSpecification_EN.md
+
+use_directory_urls: false
+
+plugins:
+  - search
